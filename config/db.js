@@ -1,0 +1,1 @@
+module.exports = {  url : "mongodb://Mickyei:Scarface22@eventtest-shard-00-00-iot1p.mongodb.net:27017,eventtest-shard-00-01-iot1p.mongodb.net:27017,eventtest-shard-00-02-iot1p.mongodb.net:27017/EventTest?ssl=true&replicaSet=EventTest-shard-0&authSource=admin&retryWrites=true&w=majority"};
